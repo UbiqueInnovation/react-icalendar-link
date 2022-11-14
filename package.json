@@ -1,5 +1,5 @@
 {
-  "name": "react-icalendar-link",
+  "name": "@ubique-innovation/react-icalendar-link",
   "version": "3.1.0",
   "description": "Ability to create link for downloading ics file",
   "author": "josephj",
