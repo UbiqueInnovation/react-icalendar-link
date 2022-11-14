@@ -4,7 +4,7 @@
   "description": "Ability to create link for downloading ics file",
   "author": "josephj",
   "license": "MIT",
-  "repository": "josephj/react-icalendar-link",
+  "repository": "UbiqueInnovation/react-icalendar-link",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",

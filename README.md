@@ -79,3 +79,4 @@ ATTENDEE;CN="Mike Douglass";CUTYPE=INDIVIDUAL;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:ma
 ## License
 
 MIT © [josephj](https://github.com/josephj)
+MIT © [Ubique Innovation](https://github.com/UbiqueInnovation)
